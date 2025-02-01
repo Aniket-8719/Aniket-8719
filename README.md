@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://komarev.com/ghpvc/?username=aniket-8719&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-8719](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I'm Aniket</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I'm Aniket</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-8719&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-8719" /> </p>
