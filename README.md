@@ -15,67 +15,53 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wzlg7vmEg1Ym9CXUTkQrz68OKLaJVrmb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/aniket-savita-bb295a230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/aniket-savita-bb295a230" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aniket07013/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aniket07013/" height="30" width="40" /></a>
- <a href="mailto:aniket07013.com"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width = 30px alt="Email"/></a>
-</p>
+# 🚀 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- ### 🚀 **Tech Stack & Tools** -->
-<p align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;" >
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://blog.getbootstrap.com/assets/brand/bootstrap-logo-shadow@2x.png" alt="Bootstrap" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://tse1.mm.bing.net/th?id=OIP.2iEowL2SHarzSE2Lb8WlWAHaBx&pid=Api&P=0&h=180" alt="Express.js" width="120" height="40" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://figma.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
-  </a>
-</p>
+## 📜 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=for-the-badge)
+![Toastify](https://img.shields.io/badge/Toastify-FF5733?style=for-the-badge) 
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
+![AXIOS](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) 
+![Validator.js](https://img.shields.io/badge/Validator.js-00CC99?style=for-the-badge) 
+
+## 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🌍 Deployment  
+![VPS Manager](https://img.shields.io/badge/VPS_Manager-FF5733?style=for-the-badge) 
+![Render](https://img.shields.io/badge/Render-0468D7?style=for-the-badge) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
+
+## 📌 Project Management  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)  
+
+## 🛠️ Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 💻 Other
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ---
