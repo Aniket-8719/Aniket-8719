@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aniket-savita-bb295a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/aniket-savita-bb295a230" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Aniket07013/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aniket07013/" height="30" width="40" /></a>
-<a href="mailto:aniket07013@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" width = 30  align="center"/></a>
+<a href="mailto:aniket07013@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" width = 30  align="center"/></a>
 </p>
 
 # 🚀 Technical Skills
