@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aniket07013@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wzlg7vmEg1Ym9CXUTkQrz68OKLaJVrmb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s7XMYunopR0pYSVBL7yDdL8nSYLQByiG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
