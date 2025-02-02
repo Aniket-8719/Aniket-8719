@@ -6,7 +6,6 @@
  **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
 
-
 - 🔭 I’m currently working on [ashopiy](https://www.ashopiy.com/)
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
