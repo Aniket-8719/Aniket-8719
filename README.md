@@ -1,5 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Aniket</h1>
-<h3 align="center">A passionate Software Developer Engineer from India</h3>
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniket</h1>
+<!-- <h3 align="center">A passionate Software Development Engineer from India</h3> -->
+
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+
 
 
 - 🔭 I’m currently working on [ashopiy](https://www.ashopiy.com/)
@@ -15,6 +20,12 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wzlg7vmEg1Ym9CXUTkQrz68OKLaJVrmb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aniket-savita-bb295a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/aniket-savita-bb295a230" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Aniket07013/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aniket07013/" height="30" width="40" /></a>
+<a href="mailto:aniket07013@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" width = 30  align="center"/></a>
+</p>
+
 # 🚀 Technical Skills
 
 ## 📜 Languages
