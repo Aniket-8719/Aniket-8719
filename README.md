@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [portfolio website](https://pratik-kumar.netlify.app/) for more information and to get in touch.
+- 👨‍💻 All of my projects are available at [portfolio website](https://aniket-8719.github.io/myportfolio/) for more information and to get in touch.
 
 - 💬 Ask me about **C/C++, OOPS in C++, ReactJS, ExpressJS, NodeJS, MongoDB, DBMS, SQL**
 
