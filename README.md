@@ -5,7 +5,8 @@
 
  **<h3 align="left">🚀 Passionate full-stack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-
+- 📚 Currently diving into **System Design**, learning how to architect robust, scalable, and maintainable backend systems.
+  
 - ⚙️ I have a solid understanding of **Data structures and algorithms**, which I apply to build fast, scalable, and efficient backend systems.
 
 - 👨‍💻 All of my projects are available at [portfolio website](https://aniket-8719.github.io/myportfolio/) for more information and to get in touch.
